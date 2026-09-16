@@ -1,0 +1,9 @@
+torch>=2.1.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+trimesh>=4.0.0
+scikit-image>=0.22.0
+pyhocon>=0.3.60
+tqdm>=4.66.0
+pycolmap>=0.4.0

@@ -1,0 +1,39 @@
+# ROS 2 / Colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Python environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ROS data
+*.bag
+*.db3
+
+# ML model files
+*.pt
+*.pth
+*.onnx
+*.ckpt
